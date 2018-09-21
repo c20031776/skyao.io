@@ -25,12 +25,3 @@ weight = 3
 +++
 
 SOFAMesh 是基于 Istio 改进和扩展而来的 Service Mesh 大规模落地实践方案。在继承 Istio 强大功能和丰富特性的基础上，为满足大规模部署下的性能要求以及应对落地实践中的实际情况，进行了增强和扩展 :rocket:
-<div style="margin-top: -0.5rem;">
-  <a id="academic-release" href="https://github.com/alipay/sofa-mesh/releases" data-repo="alipay/sofa-mesh">
-  Latest release <!-- V -->
-  </a>
-</div>
-<div class="mt-3">
-  <a class="github-button" href="https://github.com/alipay/sofa-mesh" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
-</div>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
