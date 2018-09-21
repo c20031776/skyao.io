@@ -1,2 +1,6 @@
+.*
+!.gitignore
 public/
-.idea/
+themes/
+content/post/images/
+content/publication/images/
