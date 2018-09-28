@@ -49,6 +49,9 @@ enableGitInfo = false
 
 [params]
   # AUTHOR SETUP
+  author = "敖小剑"
+  subtitle = "敖小剑的个人技术博客网站。"
+  keywords = "敖小剑,技术,博客,service mesh,服务网格,serverless,kubernetes,cloud native,云原生"
 
   # Your details.
   name = "敖小剑"
@@ -106,7 +109,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "敖小剑的个人技术博客网站，主要关注服务网格,serverless,kubernetes,微服务等云原生技术。"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
