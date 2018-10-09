@@ -1,5 +1,5 @@
 +++
-title = "X-protocol介绍(1)-DNS通用寻址方案"
+title = "SOFAMesh中的多协议通用解决方案x-protocol介绍系列(1)-DNS通用寻址方案"
 
 date = 2018-09-13
 lastmod = 2018-09-13
