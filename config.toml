@@ -64,6 +64,9 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
+  # reward button, comment this to disable it
+  reward = true
+
   # Details for the Contact Widget
   email = "aoxiaojian@hotmail.com"
   address = "广州市天河区广电平云广场B塔18楼"
