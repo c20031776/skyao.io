@@ -21,21 +21,21 @@ publication = "Service Mesh技术社区线下Meetup杭州站"
 publication_short = "*Service Mesh Meetup* 杭州"
 
 # Abstract and optional shortened version.
-abstract = "蚂蚁金服Service Mesh产品(Sofa Mesh)的技术选型，架构设计和开源策略"
+abstract = "蚂蚁金服Service Mesh产品(SOFAMesh)的技术选型，架构设计和开源策略"
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = []
 
-tags = ["服务网格", "蚂蚁金服", "Sofa Mesh"]
+tags = ["服务网格", "蚂蚁金服", "SOFAMesh", "SOFAMosn"]
 
 # Links (optional).
 url_pdf = ""

@@ -5,7 +5,7 @@ date = 2018-04-20
 lastmod = 2018-04-20
 draft = false
 
-tags = ["ServiceMesh"]
+tags = ["服务网格"]
 summary = "苦等一年，始终不见Istio的性能有实质性提升，失望之余，开始反思Istio而至Service Mesh的架构。焦点所在：proxy到底该做哪些事情？架构的优美和性能的实际表现该如何平衡？"
 abstract = "苦等一年，始终不见Istio的性能有实质性提升，失望之余，开始反思Istio而至Service Mesh的架构。焦点所在：proxy到底该做哪些事情？架构的优美和性能的实际表现该如何平衡？"
 

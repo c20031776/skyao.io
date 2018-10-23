@@ -35,7 +35,7 @@ selected = false
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = []
 
-tags = ["服务网格", "Istio", "Linkerd"]
+tags = ["服务网格", "QCon"]
 
 # Links (optional).
 url_pdf = "/files/pdf/service-mesh-next-generation-microservice.pdf"
