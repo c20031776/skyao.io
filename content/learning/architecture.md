@@ -28,3 +28,11 @@ Service Mesh(中文名：服务网格)是新兴的微服务架构，被誉为下
 ### [Istio学习笔记](https://skyao.io/learning-istio/)
 
 Istio是一个连接，管理和保护微服务的开放平台。
+
+### [Serverless学习笔记](https://skyao.io/learning-serverless/)
+
+Serverless计算是指构建和运行不需要服务器管理的应用程序的概念。它描述了一种更细粒度的部署模型，应用程序捆绑一个或多个function，上载到平台，然后执行，缩放和计费，以响应当前所需的确切需求。
+
+### [Knative学习笔记](https://skyao.io/learning-knative/)
+
+Knative 是谷歌牵头的 serverless 架构方案，旨在提供一套简单易用的 serverless 开源方案，把 serverless 标准化和平台化。目前参与 knative 项目的公司主要有： Google、Pivotal、IBM、Red Hat和SAP。
