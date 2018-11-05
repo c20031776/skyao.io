@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "PPT下载", url = "/files/pdf/201810-ant-finance-service-mesh-practice"}, {name = "图文实录(PDF格式)", url = "/files/pdf/201810-ant-finance-service-mesh-practice-text.pdf"}, {name = "QCon专题介绍", url = "https://2018.qconshanghai.com/presentation/823"}]
+url_custom = [{name = "PPT下载", url = "/files/pdf/201810-ant-finance-service-mesh-practice.pdf"}, {name = "图文实录(PDF格式)", url = "/files/pdf/201810-ant-finance-service-mesh-practice-text.pdf"}, {name = "InfoQ微信公众号推送", url = "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651010202&idx=1&sn=742179879a25d526402a5b561b769ed1&chksm=bdbeccc98ac945df391f1b54f06495868a683002ac9fb71a80fc001e10344a991d36019ad1f4&mpshare=1&scene=1&srcid=1031NDbOqrXSWzZCPSR8vYVW&pass_ticket=QSqFYI8gVkHaKO2ZkhySKl59tpQgpWzc%2Fx3PY6wVb8Usa0taShlwv87dkhSoATI1#rd"}, {name = "QCon专题介绍", url = "https://2018.qconshanghai.com/presentation/823"}]
 
 # Does the content use math formatting?
 math = true
@@ -67,6 +67,11 @@ caption = ""
 
 +++
 
+_ _ _
+
+后记：被评选为QCon上海2018的明星讲师，感谢各方朋友的厚爱！
+
+![](images/star.jpeg)
 _ _ _
 
 ![](images/ppt-1.png)
