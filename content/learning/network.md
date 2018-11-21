@@ -28,3 +28,7 @@ Cilium是一个开源软件，用于透明地提供和保护使用Kubernetes，D
 ### [HTTP/2学习笔记](https://skyao.io/learning-http2/)
 
 HTTP/2 是 HTTP 协议的最新版本。
+
+### [DNS学习笔记](https://skyao.io/learning-dns/)
+
+DNS学习笔记，关注点在于服务化体系中DNS的使用。

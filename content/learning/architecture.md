@@ -29,6 +29,10 @@ Service Mesh(中文名：服务网格)是新兴的微服务架构，被誉为下
 
 Istio是一个连接，管理和保护微服务的开放平台。
 
+### [Envoy学习笔记](https://skyao.io/learning-envoy/)
+
+Envoy是Lyft公司提供的Service Mesh实现，采用c++实现。
+
 ### [Serverless学习笔记](https://skyao.io/learning-serverless/)
 
 Serverless计算是指构建和运行不需要服务器管理的应用程序的概念。它描述了一种更细粒度的部署模型，应用程序捆绑一个或多个function，上载到平台，然后执行，缩放和计费，以响应当前所需的确切需求。
