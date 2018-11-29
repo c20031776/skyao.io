@@ -29,7 +29,7 @@ abstract_short = "在勇敢的选择了Service Mesh作为未来技术方向之�
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
